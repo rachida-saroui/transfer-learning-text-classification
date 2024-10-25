@@ -1,6 +1,3 @@
-# transfer-learning-text-classification
-Transfer Learning for Text Classification using Transformer-based Models
-
 # Transfer Learning for Text Classification with Transformer-based Models
 
 This repository contains the code and experiments for the ALTEGRAD 2024 project by Rachida Saroui, focusing on using transfer learning to improve text classification tasks. This project utilizes pre-trained transformer models and custom architectures such as AttentionBiGRU, HAN (Hierarchical Attention Networks), and TimeDistributed layers to build powerful classifiers for document classification tasks.
